@@ -22,3 +22,5 @@ lowend <- xbar - quant[2]*sem
 upend <- xbar - quant[1]*sem
 lowend
 upend
+
+#hello this is a test
